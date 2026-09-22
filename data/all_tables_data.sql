@@ -1,5 +1,3 @@
--- Table: CICD_MIGRATIONS
--- Table: DEMO
--- Table: EMP
+Enter value for i:
 
-'-data' at column 19: Option not recognized
+Substitution cancelled
